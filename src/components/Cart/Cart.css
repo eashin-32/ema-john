@@ -1,0 +1,17 @@
+.cart-price small{
+    display: block;
+    text-align: left;
+    margin-left: 10px ;
+}
+.cart-price h4{
+    text-align:left;
+    color: chocolate;
+}
+.cart-btn{
+    background-color: goldenrod;
+    width: 200px;
+    height: 26px;
+    border-radius:5px ;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.384);
+}
